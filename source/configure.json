@@ -1,0 +1,10 @@
+{
+    "database": "postgres",
+    "database_user": "postgres",
+    "database_password": "chinois1",
+    "database_host": "alexa-data.cmg96txylbv8.us-east-2.rds.amazonaws.com",
+    "database_port": "5432",
+    "language_speed": "slow",
+    "source_language": "en",
+    "target_language": "es-MX"
+}
